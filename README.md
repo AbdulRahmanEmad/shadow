@@ -18,4 +18,4 @@ script helps you The weak people in English
 
 6 - type python3 gamil.py
 
-Do not settle my pursuit on my page https://www.facebook.com/Abdul.Rahman1Emad
+7 - Do not settle my pursuit on my page https://www.facebook.com/Abdul.Rahman1Emad
