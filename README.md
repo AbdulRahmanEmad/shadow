@@ -10,11 +10,12 @@ script helps you The weak people in English
 
 2 - unpack him ;)
 
-3 - put the file in your desktop
+3 -Put the file anywhere you want
 
 4 - open new terminal
 
-5 - type cd Desktop/shadow
-
+5 - type cd shadow
 
 6 - type python3 gamil.py
+
+Do not settle my pursuit on my page https://www.facebook.com/Abdul.Rahman1Emad
