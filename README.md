@@ -22,4 +22,4 @@ script helps you The weak people in English
 
 8 - # Install 
 
-git clone https://github.com/AbdulRahmanEmad/shadow
+9 - git clone https://github.com/AbdulRahmanEmad/shadow
