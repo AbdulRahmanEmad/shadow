@@ -16,7 +16,7 @@ script helps you The weak people in English
 
 5 - type cd shadow
 
-6 - type python3 gamil.py
+6 - type python3 script_sqlmap.py
 
 7 - Do not settle my pursuit on my page https://www.facebook.com/Abdul.Rahman1Emad
 
